@@ -1,1 +1,1 @@
-# tabela-renda-variavel-professor-mira
+# tabela-renda-variavel
